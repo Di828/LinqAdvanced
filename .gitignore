@@ -9,9 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-.gitattributes
-Program.cs
-LinqAdvanced.sln
+*.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
